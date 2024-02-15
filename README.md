@@ -23,7 +23,7 @@ The app leverages local storage to persist the packing list even after a page re
 
 ### Getting Started
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/Absar-Qadri/Travel-List/tree/master`
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 
